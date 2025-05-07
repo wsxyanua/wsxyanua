@@ -1,7 +1,8 @@
 <h1 align="center">root@you:~# cat /etc/profile</h1>
 
 <p align="center">
-  <img src="https://imgs.search.brave.com/Ea__d_bvYsKbHznObdhiUkgyx4NfxaaRzM7VqG4GHXs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDQwMDU4/NzgucG5n" alt="Kali Linux" width="120" />
+  <img src="https://imgs.search.brave.com/6soEbGe2WjfO5z359McfC-iZV3vTbZUSI62szVRbEW0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/a2FsaS5vcmcvaW1h/Z2VzL2lzby02NC1p/bnN0YWxsZXIuc3Zn" alt="Kali Linux" width="120" />
+  <img src="https://imgs.search.brave.com/HiQp-e5BamFaxCNTlbnyh5RClp47O-UEf7EKbF9P54Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/a2FsaS5vcmcvaW1h/Z2VzL2lzby1wdXJw/bGUtNjQuc3Zn" alt="Kali Purple" width="120" />
 </p>
 
 <p align="center"><code>Offensive Security | Bug Bounty | Red Team Ops | CTF</code></p>

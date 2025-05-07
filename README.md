@@ -1,40 +1,45 @@
-<h1 align="center">whoami</h1>
+<h1 align="center">root@you:~# cat /etc/profile</h1>
 
 <p align="center">
-  <code>Security Researcher | Red Teamer | Bug Bounty Hunter</code><br>
-  <code>OSCP | CTF Player | Offensive Security Enthusiast</code>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-linux-logo.svg" alt="Kali Linux" width="120" />
 </p>
 
----
-
-## ✦ Background
-
-- Deep interest in **Web Security**, **Binary Exploitation**, and **Red Teaming**
-- Regular player on **HackTheBox**, **TryHackMe**, **CTFtime**
-- Participating in **Bug Bounty** programs on HackerOne & Bugcrowd
+<p align="center"><code>Offensive Security | Bug Bounty | Red Team Ops | CTF</code></p>
 
 ---
 
-## ✦ Skills
+## ▓▓▓[ WHOAMI ]
 
-Tools : Burp Suite, Nmap, Metasploit, Wireshark, ffuf, Ghidra
-Languages : Python, Bash, C, JS
-OS : Kali Linux, Parrot OS, Ubuntu
+```bash
+> echo "I break things to make them better."
+🔍 Security Researcher | Pentester | Bug Bounty Hunter
 
+🎯 Focus: Web Exploitation, Recon, Red Teaming, OSINT
 
----
+⚙️ Tools: Burp Suite, ffuf, Nmap, Ghidra, Metasploit, Wireshark
 
-## ✦ Experience
+💬 Languages: Python, Bash, JavaScript, C
 
-- 🛡️ OSCP – (in progress / obtained)
-- 🧩 HackTheBox Rank: Pro Hacker (Top 5%)
-- 🐞 Valid Bugs on HackerOne, Bugcrowd
-- 🧠 Top 1% picoCTF / TryHackMe
+🐧 OS: Kali Linux, Parrot OS, Ubuntu
 
----
+▓▓▓[ Arsenal ]
+🐞 Responsible disclosures on HackerOne, Bugcrowd
 
-## ✦ Contact
+🧠 Top player on picoCTF, TryHackMe, HTB (Pro Hacker)
 
-- 📧 Email: you@example.com
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+🛡️ OSCP (in progress / obtained)
+
+🔓 Custom exploit scripts, fuzzers, payload generators
+
+🕶️ Red Team scenario design & internal threat simulations
+
+▓▓▓[ ~/.contactrc ]
+ini
+Sao chép
+Chỉnh sửa
+Website = https://yourwebsite.com
+Email   = you@example.com
+Twitter = @yourhandle
+Discord = you#0001
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&count_private=true&hide=issues" /> <br /> <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=dark" /> </p>
+<h3 align="center"># Stay low, scan slow, strike hard ⚔️</h3> ```

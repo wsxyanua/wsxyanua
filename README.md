@@ -1,52 +1,40 @@
-<h1 align="center">👋 Welcome to My Cyber World 👨‍💻</h1>
+<h1 align="center">whoami</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Security+Engineer+%F0%9F%94%92;CTF+Player+%F0%9F%A7%A0;Bug+Bounty+Hunter+%F0%9F%90%9B;Pentest+%26+Red+Team+Enthusiast+%F0%9F%94%AB" />
+  <code>Security Researcher | Red Teamer | Bug Bounty Hunter</code><br>
+  <code>OSCP | CTF Player | Offensive Security Enthusiast</code>
 </p>
 
 ---
 
-## 🛡️ About Me
+## ✦ Background
 
-```yaml
-name: YourName
-role: Security Researcher | Penetration Tester
-focus: Offensive Security | Threat Hunting | CTFs
-tools: [Burp Suite, Nmap, Metasploit, Wireshark, Gobuster]
-languages: [Python, Bash, C, JavaScript]
-os: [Kali Linux, Parrot, Ubuntu]
-🔐 My Arsenal
-🕷️ Bug Bounty & Web Exploitation
+- Deep interest in **Web Security**, **Binary Exploitation**, and **Red Teaming**
+- Regular player on **HackTheBox**, **TryHackMe**, **CTFtime**
+- Participating in **Bug Bounty** programs on HackerOne & Bugcrowd
 
-🔎 Vulnerability Scanning & Reporting
+---
 
-⚔️ Red Teaming Labs & Scenarios
+## ✦ Skills
 
-📜 Malware Analysis & Reverse Engineering
+Tools : Burp Suite, Nmap, Metasploit, Wireshark, ffuf, Ghidra
+Languages : Python, Bash, C, JS
+OS : Kali Linux, Parrot OS, Ubuntu
 
-🧠 Capture The Flag (CTF) Challenges
 
-💣 Custom Payload Generator Scripts
+---
 
-🧰 Toolbox
-<p align="center"><a href='https://postimg.cc/G9ZLKLJr' target='_blank'><img src='https://i.postimg.cc/02Nz8rz6/image.png' border='0' alt='image'/></a> </p>
-🕵️‍♂️ Certifications & Achievements
-🎖️ OSCP - Offensive Security Certified Professional (in progress / completed)
+## ✦ Experience
 
-🧩 HackTheBox: Hacker / Pro Hacker (Top 5%)
+- 🛡️ OSCP – (in progress / obtained)
+- 🧩 HackTheBox Rank: Pro Hacker (Top 5%)
+- 🐞 Valid Bugs on HackerOne, Bugcrowd
+- 🧠 Top 1% picoCTF / TryHackMe
 
-🐞 HackerOne & Bugcrowd valid reports
+---
 
-🥇 CTFs: picoCTF, TryHackMe, RootMe
+## ✦ Contact
 
-📫 Contact Me
-🌐 Website: yourwebsite.com
-
-✉️ Email: your.email@domain.com
-
-🐦 Twitter: @yourhandle
-
-💬 Discord: you#0001
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide=issues&count_private=true" /> <br /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark" /> </p>
-<p align="center"> 💥 Stay curious, stay dangerous. Hack the planet 🌍 </p> ```
+- 📧 Email: you@example.com
+- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)

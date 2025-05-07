@@ -22,7 +22,10 @@
 
 🐧 OS: Kali Linux, Parrot OS, Ubuntu
 
-▓▓▓[ Arsenal ]
+---
+
+
+##▓▓▓[ Arsenal ]
 🐞 Responsible disclosures on HackerOne, Bugcrowd
 
 🧠 Top player on picoCTF, TryHackMe, HTB (Pro Hacker)
@@ -33,7 +36,10 @@
 
 🕶️ Red Team scenario design & internal threat simulations
 
-▓▓▓[ ~/.contactrc ]
+---
+
+
+##▓▓▓[ ~/.contactrc ]
 ini
 Sao chép
 Chỉnh sửa
@@ -41,5 +47,6 @@ Website = null
 Email   = null
 Twitter = null
 Discord = null
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=log-xyanua&show_icons=true&theme=tokyonight&count_private=true&hide=issues" /> <br /> <img src="https://github-readme-streak-stats.herokuapp.com?user=log-xyanua&theme=dark" /> </p>
 <h3 align="center"># Stay low, scan slow, strike hard ⚔️</h3> ```

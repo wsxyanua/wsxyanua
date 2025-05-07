@@ -1,7 +1,7 @@
 <h1 align="center">root@you:~# cat /etc/profile</h1>
 
 <p align="center">
-  <img src="https://wallpapercave.com/kali-linux-logo-wallpapers" alt="Kali Linux" width="120" />
+  <img src="https://imgs.search.brave.com/Ea__d_bvYsKbHznObdhiUkgyx4NfxaaRzM7VqG4GHXs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDQwMDU4/NzgucG5n" alt="Kali Linux" width="120" />
 </p>
 
 <p align="center"><code>Offensive Security | Bug Bounty | Red Team Ops | CTF</code></p>

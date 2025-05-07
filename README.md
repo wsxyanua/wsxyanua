@@ -29,7 +29,7 @@ os: [Kali Linux, Parrot, Ubuntu]
 💣 Custom Payload Generator Scripts
 
 🧰 Toolbox
-<img src="https://skillicons.dev/icons?i=python,bash,linux,github,vscode,git,c,js,html,css" alt="skill icons" />
+<p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-linux-logo.svg" alt="Kali Linux Logo" width="140" /> <br/> <strong>Kali Linux is my primary weapon of choice 🔪</strong> </p>
 🕵️‍♂️ Certifications & Achievements
 🎖️ OSCP - Offensive Security Certified Professional (in progress / completed)
 

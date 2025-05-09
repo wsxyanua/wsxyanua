@@ -61,11 +61,11 @@ Tools:
 ✅ C2 Persistence
 ```
 
-🔬 side projects
+🔬 side projects: nothin` :)
 ```bash
-> git clone https://github.com/log-xyanua/vnPentestKit.git
+> git clone https://github.com/wsxyanua/...
 
-vnPentestKit – Recon & Exploit Automation Toolkit 🇻🇳
+... – Recon & Exploit Automation Toolkit 🇻🇳
 > ./vnPentestKit.sh --target hacker.local
 
 🔸 auto-subenum | 🔸 port-scan | 🔸 payload-gen
@@ -76,10 +76,10 @@ vnPentestKit – Recon & Exploit Automation Toolkit 🇻🇳
 🎯 Goals
 
 > ./roadmap.sh
-
-- [x] 100+ HackTheBox / TryHackMe labs
-- [x] Build personal C2 lab with Kali & Mythic
-- [x] Learn shellcoding (Linux x86/64)
+target:
+- [ ] 100+ HackTheBox / TryHackMe labs
+- [ ] Build personal C2 lab with Kali & Mythic
+- [ ] Learn shellcoding (Linux x86/64)
 - [ ] OSCP - In Progress
 - [ ] Custom AV/EDR evasion packer
 
@@ -89,8 +89,8 @@ vnPentestKit – Recon & Exploit Automation Toolkit 🇻🇳
 ```bash
 > cat ~/.contact
 
-🌐 Blog: https://blog.xyanuasec.dev  
+🔗 Telegram: @gonlswft
 📬 Email: xyanua@pm.me  
-🔗 GitHub: https://github.com/log-xyanua
+🔗 GitHub: https://github.com/wsxyanua
 ```  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=log-xyanua&style=for-the-badge&color=red" /> </p>

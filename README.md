@@ -6,6 +6,7 @@
 </p>
 
 ---
+Hi there, i'm xyanua.
 
 ## 🧬 whoami
 ```bash

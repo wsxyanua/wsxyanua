@@ -62,27 +62,12 @@ Tools:
 ✅ C2 Persistence
 ```
 
-🔬 side projects: nothin` :)
-```bash
-> git clone https://github.com/wsxyanua/...
-
-... – Recon & Exploit Automation Toolkit 🇻🇳
-> ./vnPentestKit.sh --target hacker.local
-
-🔸 auto-subenum | 🔸 port-scan | 🔸 payload-gen
-```
 <p align="center"> <img src="https://raw.githubusercontent.com/wsxyanua/vnPentestKit/main/demo/demo.gif" alt="vnPentestKit demo" width="600"> </p>
 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wsxyanua&theme=dark&show_icons=true&title_color=ff5555&text_color=ffffff&icon_color=ff5555&bg_color=0d1117" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsxyanua&layout=compact&theme=dark&title_color=50fa7b&bg_color=0d1117" /> </p>
-🎯 Goals
 
-> ./roadmap.sh
-target:
-- [ ] 100+ HackTheBox / TryHackMe labs
-- [ ] Build personal C2 lab with Kali & Mythic
-- [ ] Learn shellcoding (Linux x86/64)
-- [ ] OSCP - In Progress
-- [ ] Custom AV/EDR evasion packer
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=wsxyanua&show_icons=true&locale=en" alt="wsxyanua" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wsxyanua&" alt="wsxyanua" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=wsxyanua&show_icons=true&locale=en&layout=compact" alt="wsxyanua" /></p>
 
 <p align="center"> <img src="https://img.shields.io/badge/OSCP-In_Progress-red?style=for-the-badge&logo=offensive-security&logoColor=white" /> <img src="https://img.shields.io/badge/HTB/TryHackMe-Daily-green?style=for-the-badge&logo=tryhackme&logoColor=white" /> </p>
 

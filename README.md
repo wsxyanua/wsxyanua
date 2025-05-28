@@ -54,6 +54,24 @@ I'm a Cybersecurity Enthusiast 🛡️
 
 ---
 
+### 📈 GitHub Stats & Graphs
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wsxyanua&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=wsxyanua&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsxyanua&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=wsxyanua&theme=radical&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <br>
+  <img src="https://github-contributor-stats.vercel.app/api?username=wsxyanua&limit=5&theme=radical" alt="Contributor Stats" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wsxyanua&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
+  <br>
+</p>
+
+---
 ### 🎯 &nbsp;Current Focus
 🔍 Exploiting vulnerable systems in lab environments  
 🔐 Developing CTF challenge solutions  

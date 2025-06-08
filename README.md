@@ -1,6 +1,6 @@
 <div align="center">
   <h2> 
-    Hello, World! I am wsxyanua 👾
+    Hello World! I am wsxyanua 👾
   </h2>
 </div>
 
@@ -12,19 +12,7 @@ I'm a Cybersecurity Enthusiast 🛡️
 🌐 Obsessed with network security, malware analysis, and reverse engineering  
 🎧 When not in the lab, I enjoy synthwave and retro gaming  
 🌍 Defender by day, red-teamer by night
-
----
-
-<details>
-<summary><b>📊 &nbsp;GitHub Analytics</b></summary>
-<p align="center">
-  <a href="https://github.com/wsxyanua">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wsxyanua&show_icons=true&theme=tokyonight"/>
-    <br>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=wsxyanua&theme=tokyonight&layout=compact"/>
-  </a>
-</p>
-</details>
+🤖 I recently learned more about AI
 
 ---
 

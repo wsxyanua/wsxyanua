@@ -49,7 +49,7 @@ I'm a Cybersecurity Enthusiast 🛡️
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=wsxyanua&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsxyanua&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   <br>
   <img src="https://github-profile-trophy.vercel.app/?username=wsxyanua&theme=radical&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
   <br>

@@ -11,7 +11,7 @@ I'm a Cybersecurity Enthusiast 🛡️
 📖 Self-learning through CTFs, projects, and communities  
 🌐 Obsessed with network security, malware analysis, and reverse engineering  
 🎧 When not in the lab, I enjoy synthwave and retro gaming  
-🌍 Defender by day, red-teamer by night
+🌍 Defender by day, red-teamer by night  
 🤖 I recently learned more about AI
 
 ---

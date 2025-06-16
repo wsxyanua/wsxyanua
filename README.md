@@ -1,6 +1,6 @@
 <div align="center">
   <h2> 
-    Hello World! I am wsxyanua 👾
+    Hello World! I am xyanua. 👾
   </h2>
 </div>
 

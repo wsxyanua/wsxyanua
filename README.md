@@ -20,13 +20,11 @@ I'm a Cybersecurity Enthusiast 🛡️
 
 #### ⚙️ Languages & Scripting:
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Bash Badge](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) logo=gnubash&logoColor=white&style=for-the-badge)
 ![C Badge](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
-![Assembly Badge](https://img.shields.io/badge/Assembly-000000?logo=assembly&logoColor=white&style=for-the-badge)
-
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 #### 🛠 OS & Tools:
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-1793D1?logo=kalilinux&logoColor=white&style=for-the-badge)
-![Parrot OS](https://img.shields.io/badge/Parrot_OS-1F1F1F?logo=parrot&logoColor=white&style=for-the-badge)
 ![Metasploit](https://img.shields.io/badge/Metasploit-202020?logo=metasploit&logoColor=white&style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-ff6600?logo=burpsuite&logoColor=white&style=for-the-badge)

@@ -20,7 +20,7 @@ I'm a Cybersecurity Enthusiast 🛡️
 
 #### ⚙️ Languages & Scripting:
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) logo=gnubash&logoColor=white&style=for-the-badge)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![C Badge](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 #### 🛠 OS & Tools:
